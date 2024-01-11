@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="multilingual_rouge_score",
+    name="rouge_score",
     version='3.0.0',
     author="Google LLC",
     author_email="no-reply@google.com",
